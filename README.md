@@ -1,4 +1,4 @@
 ### Son Chang Jun
-
-- I am a student at Seoultech
-- If you need contact, please contact onepolejun@naver.com 
+---
+- I am a student at Seoultech computer science department
+- If you need contact, please contact __onepolejun@naver.com__
